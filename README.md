@@ -29,4 +29,4 @@ Model : LSTM
 
 Features Used : 13 MFCCs + 13 delta + 13 delta-delta coefficients(framewise) 
 Training Accuracy  =  89.51 %
-Test Accuracy =  14.69 %
+Test Accuracy =  54.69 %
